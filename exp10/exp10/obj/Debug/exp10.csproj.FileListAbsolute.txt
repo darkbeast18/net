@@ -1,0 +1,7 @@
+D:\ajp lab\3rd year\.net\exp10\exp10\obj\Debug\exp10.csproj.AssemblyReference.cache
+D:\ajp lab\3rd year\.net\exp10\exp10\obj\Debug\exp10.csproj.CoreCompileInputs.cache
+D:\ajp lab\3rd year\.net\exp10\exp10\bin\Debug\exp10.exe.config
+D:\ajp lab\3rd year\.net\exp10\exp10\bin\Debug\exp10.exe
+D:\ajp lab\3rd year\.net\exp10\exp10\bin\Debug\exp10.pdb
+D:\ajp lab\3rd year\.net\exp10\exp10\obj\Debug\exp10.exe
+D:\ajp lab\3rd year\.net\exp10\exp10\obj\Debug\exp10.pdb
